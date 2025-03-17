@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介："
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-我是一个华中科技大学的学生
+我是一名华中科技大学的学生
+我喜欢计算机相关的知识，也喜欢打打cs之类的游戏。
